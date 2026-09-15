@@ -1,0 +1,11 @@
+{
+  "slug": "bls-payload-lab",
+  "name": "BLS Payload Lab",
+  "kind": "crypto",
+  "description": "Model BLS signature, public-key, and message aggregation payloads for Solana v1.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}

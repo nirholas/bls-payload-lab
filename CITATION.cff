@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "bls-payload-lab"
+abstract: "Model BLS signature, public-key, and message aggregation payloads for Solana v1."
+repository-code: "https://github.com/nirholas/bls-payload-lab"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

@@ -8,7 +8,7 @@ Model BLS signature, public-key, and message aggregation payloads for Solana v1.
 
 - Source: https://github.com/nirholas/bls-payload-lab
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
